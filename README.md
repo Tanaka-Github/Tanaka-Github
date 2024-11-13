@@ -2,9 +2,9 @@
 
 Hi! Im Tanaka Shongwe! 👋
  
-I’m a final year Computing in Games Development Student!
+I’m a College Graduate for Computing in Games Development!
 
-•🌱 I’m currently learning Java, C++, FMOD, Wwsise, C# and Unity
+•🌱 I’m currently skills are Java, C#/C++ ,Python, FMOD, Wwsise, C# and Unity 
 
 • 🧠 I’m always willing to improve my skills and learn a lot more as much as I can
 
@@ -12,7 +12,7 @@ I’m a final year Computing in Games Development Student!
 
 • 📫 How to reach me:
 
-•  My LinkedIn : www.linkedin.com/in/tanaka-shongwe-316a22231
+•  My LinkedIn : www.linkedin.com/in/tanaka-shongwe 
 
 • My Email : tanakashongwe1@gmail.com
 
